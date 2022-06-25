@@ -1,0 +1,4 @@
+01 inbox
+02 jump if zero 01
+03 outbox
+04 jump 01

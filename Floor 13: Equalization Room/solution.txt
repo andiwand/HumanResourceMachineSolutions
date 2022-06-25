@@ -1,0 +1,9 @@
+01 jump 04
+02 copyfrom 0
+03 outbox
+04 inbox
+05 copyto 0
+06 inbox
+07 sub 0
+08 jump if zero 02
+09 jump 04
